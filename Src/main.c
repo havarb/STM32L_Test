@@ -44,7 +44,7 @@
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 int change=0;
-
+int change2=0;
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
