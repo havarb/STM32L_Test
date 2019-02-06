@@ -46,6 +46,7 @@
 int change=0;
 int change2=0;
 int change3=0;
+int change4=0;
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
